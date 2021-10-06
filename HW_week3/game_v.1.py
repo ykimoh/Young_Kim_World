@@ -106,6 +106,9 @@ def introStory():
 
     print("You enter the Deep Deep Ocean gate.")
     print("There’s a sea animal in front of you. What is it?")
+    oceanGate()
+    foodStorage()
+    meetWhale()
     
 def oceanGate():
     print("option: [ shark, Nimo ]")
@@ -170,10 +173,10 @@ def gameOver():
     printGraphic("skull")
     print ("GAME OVER")
     print ("Your score is " + str(player["score"]) )
+    print ("Let's start over! Are you ready?")
+    input ("Press enter > ")
+    introStory()
  
 
 # Start here 
 introStory()
-oceanGate()
-foodStorage()
-meetWhale()
