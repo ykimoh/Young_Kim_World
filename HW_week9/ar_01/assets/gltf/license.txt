@@ -1,0 +1,11 @@
+Model Information:
+* title:	MH-60 BLACK HAWK
+* source:	https://sketchfab.com/3d-models/mh-60-black-hawk-9ae7287c26d0415f8ff7436b524b1875
+* author:	3D only (https://sketchfab.com/ateamodels3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MH-60 BLACK HAWK" (https://sketchfab.com/3d-models/mh-60-black-hawk-9ae7287c26d0415f8ff7436b524b1875) by 3D only (https://sketchfab.com/ateamodels3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
